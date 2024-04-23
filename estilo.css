@@ -1,0 +1,108 @@
+#Nombre{
+    text-align: center;
+    font-family: "Roboto Mono", monospace;
+    font-weight: 700;
+    color: rgb(62, 189, 198);
+    margin-top: 50px;
+    font-size: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color:rgb(246, 240, 232)
+    
+ }
+
+#Diseñador{
+    text-align: center;
+    font-family: "Roboto Mono", monospace;
+    font-weight: 500;
+    color: rgb(91, 226, 235);
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 35px;
+}
+
+
+#SubT{
+    text-align: left;
+    font-family: "Roboto Mono", monospace;
+    font-weight: 500;
+    color: rgb(91, 226, 235);
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 25px;
+}
+
+#SubT2{
+    text-align: left;
+    font-family: "Roboto Mono", monospace;
+    font-weight: 500;
+    color: rgb(91, 226, 235);
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 25px;
+}
+
+
+
+img{
+    border-radius: 50%;
+    align-items: center;
+    width: 510px;
+    height: 510px;
+    margin: auto;
+    display: block;
+
+
+
+}
+
+p{
+    text-align: left;
+    text-align: justify;
+    font-family: "Karla", sans-serif;
+    font-weight: 500;
+    color: rgb(25, 25, 26);
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 20px;
+}
+
+#Redes{
+    text-align: left;
+    font-family: "Roboto Mono", monospace;
+    font-weight: 500;
+    color: rgb(91, 226, 235);
+    margin-left: 200px;
+    margin-right: 200px;
+    
+}
+
+#HiperV{
+    text-align: left;
+    font-family: "Roboto Mono", monospace;
+    font-weight: 500;
+    color: rgb(91, 226, 235);
+    margin-left: 200px;
+    margin-right: 200px;
+
+
+}
+
+
+
+a:active{ 
+
+    color: rgb(91, 137, 235);
+}
+
+
+a:any-link{
+    color: rgb(91, 226, 235);
+    text-decoration: none;
+    
+}
+
+a:hover{
+    text-decoration: underline;
+    background-color:rgb(246, 240, 232)
+}
